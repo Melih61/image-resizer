@@ -1,5 +1,5 @@
 # Image Resizer
-Image Resizer coded by me in Python
+Image Resizer created by me in Python
 
 This image resizer is not perfect.
 I just started learning python and this is one of few beginner projects i made.
